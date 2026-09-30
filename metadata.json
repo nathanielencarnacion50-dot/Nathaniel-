@@ -1,0 +1,6 @@
+{
+  "name": "DevVision - Interactive Web Portfolio & Live Preview",
+  "description": "Portafolio interactivo de desarrollo web con visor multidispositivo en tiempo real, catálogo de proyectos dinámico y simulador responsive.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
